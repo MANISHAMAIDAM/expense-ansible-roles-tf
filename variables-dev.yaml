@@ -3,4 +3,4 @@ login_host: db-dev.manisha97.site
 login_password: ExpenseApp1
 DB_HOST: db-dev.manisha97.site
 BACKEND_API_URL: backend.app-dev.manisha97.site
-nexus_url: nexus.manisha97:8081
+nexus_url: nexus.manisha97.site:8081
